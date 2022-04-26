@@ -4,7 +4,7 @@
 
 regexp即regular expression，常用来匹配某种pattern。  
 
-正则有一系列规则，这里只记载一些转义字符的意义
+正则有一系列规则，这里只记录一些转义字符的意义
 
 ```
 \w means word
